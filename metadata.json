@@ -1,0 +1,8 @@
+{
+  "name": "KompuSim: Adventure in IPO Land",
+  "description": "Media Pembelajaran Interaktif (MPI) Informatika SMP Kelas 7 Fase D untuk memahami Cara Kerja Komputer dan Siklus Input-Proses-Output (IPO).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
